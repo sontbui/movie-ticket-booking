@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">MovieTicketBookingKotlin</string>
-    <string name="hello">Hello This is testing for translation coding</string>
+    <string name="hello">File này chứa các chuỗi tiếng anh </string>
 </resources>
