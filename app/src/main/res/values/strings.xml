@@ -1,6 +1,20 @@
 <resources>
-    <string name="app_name" translatable="false">MovieTicketBookingKotlin</string>
+    <string name="app_name" translatable="false">Movie Ticket Booking</string>
+    <string name="short_app_name" translatable="false">MVB</string>
     <string name="hello">File này là file default, copy đoạn chuỗi bên string của english qua qua</string>
+    <string name="select_language">Choose Language</string>
+    <string name="select_label">Ok!</string>
+
+
+    <string name="welcome_content">Welcome to MBooKing! Enjoy a fast and convenient ticket booking experience today! 🎬🍿</string>
+    <string name="policy_welcome">By signing in or signing up, you agree to our Terms of Service and Privacy Policy</string>
+    <string name="language_type">🇬🇧 English</string>
+    <string name="sign_in">Sign in</string>
+    <string name="sign_up">Sign up</string>
+
+    <string name="description_poster1">Incantation - The Terrifying Curse!</string>
+    <string name="description_poster2">The Medium - A Haunting Possession!</string>
+    <string name="description_poster3">The Pope\'s Exorcist - Confronting Ultimate Evil!</string>
 </resources>
 
 <!--Không được miss bất kì file nào có thêm thì phải thêm vào cả 3 file -->
