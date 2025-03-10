@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">MovieTicketBookingKotlin</string>
+    <string name="app_name" translatable="false">MovieTicketBookingKotlin</string>
     <string name="hello">File này là file default, copy đoạn chuỗi bên string của english qua qua</string>
 </resources>
 
