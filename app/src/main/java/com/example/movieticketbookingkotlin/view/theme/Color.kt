@@ -1,4 +1,4 @@
-package com.example.movieticketbookingkotlin.ui.theme
+package com.example.movieticketbookingkotlin.view.theme
 
 import androidx.compose.ui.graphics.Color
 
